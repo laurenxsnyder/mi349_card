@@ -1,3 +1,15 @@
 body {
     background: #ccc;
+    font-family: Helvetica, sans-serif;
+    color: #222;
+}
+
+img {
+    width: 100%;
+}
+
+.card {
+    background-color: #f3f3f3;
+    width: 400px;
+    text-align: center;
 }
